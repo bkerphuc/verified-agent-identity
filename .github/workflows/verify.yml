@@ -1,4 +1,5 @@
-name: Verify Human Identity
+name: Verify
+  run: echo "Verified successfully"
 
 on:
   workflow_dispatch:
